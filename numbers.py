@@ -14,5 +14,5 @@ def number(value):
     return int(value)
 
 
-def rebmun(value):
+def rebnum(value):
     return - number(value)

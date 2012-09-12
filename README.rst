@@ -7,7 +7,7 @@ Because sometimes using builtins is hard.
 Usage
 -----
 
->>> from numbers import number, rebmun
+>>> from numbers import number, rebnum
 >>> number(1)
 1
 
@@ -23,7 +23,7 @@ Complicated math:
 
 Inverse function:
 
->>> rebmun(7)
+>>> rebnum(7)
 -7
 
 Real results:
